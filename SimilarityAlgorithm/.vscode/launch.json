@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testSimilarity",
+            "request": "launch",
+            "mainClass": "com.qudian.similarity.testSimilarity",
+            "projectName": "SimilarityAlgorithm"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - similarity",
+            "request": "launch",
+            "mainClass": "com.qudian.similarity.similarity",
+            "projectName": "SimilarityAlgorithm"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - similarity",
+            "request": "launch",
+            "mainClass": "com.qudian.similarity",
+            "projectName": "SimilarityAlgorithm"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - similarity",
+            "request": "launch",
+            "mainClass": "similarity",
+            "projectName": "SimilarityAlgorithm"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimilarityCompare",
+            "request": "launch",
+            "mainClass": "SimilarityCompare",
+            "projectName": "SimilarityAlgorithm"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "SimilarityAlgorithm"
+        }
+    ]
+}
